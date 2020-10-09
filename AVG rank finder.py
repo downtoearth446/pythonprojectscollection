@@ -1,0 +1,11 @@
+print('THIS IS A CALCULATOR TO FIND AVERAGE JEE RANK')
+print('ENTER JEE MAINS RANK')
+a=int(input())
+print('ENTER JEE ADVANCED RANK')
+b=int(input())
+c=a+b
+d=((a+b)/2)
+print('YOUR AVERAGE JEE RANK IS GIVEN BELOW')
+print(d)
+print('THE ONE WITH HIGHER AVERAGE JEE RANK IS MORE INTELLIGENT ')
+e=int(input())
